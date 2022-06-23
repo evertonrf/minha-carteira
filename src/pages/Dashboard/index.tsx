@@ -1,5 +1,6 @@
-import react from 'react';
-const Dashboard: react.FC = () => {
+import React from 'react';
+
+const Dashboard: React.FC = () => {
   return (
     <h1>Dashboard</h1>
   );
